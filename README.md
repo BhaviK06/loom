@@ -27,7 +27,7 @@ A React Native mobile application for discovering, tracking, and managing your r
 - **Expo Camera** - Camera permissions
 
 ### Libraries
-- **Axios** - HTTP client for API requests
+- **Fetch API** 
 - **React Context API** - State management for favorites and diary entries
 - **AsyncStorage** - Local data persistence
 
