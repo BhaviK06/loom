@@ -372,12 +372,13 @@ const styles = StyleSheet.create({
     },
     searchHeader: {
         paddingHorizontal: 16,
-        paddingTop: 16,
-        paddingBottom: 0,
+        paddingTop: 50,  
+        paddingBottom: 8,
     },
     backButton: {
         alignSelf: 'flex-start',
         marginBottom: 8,
+        paddingVertical: 8,  
     },
     backText: {
         fontSize: 16,

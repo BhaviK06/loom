@@ -28,7 +28,7 @@ export default function BookDetailScreen({ route }) {
             }
 
             try {
-                // Remove HTML tags from description
+                
                 const cleanDescription = book.description.replace(/<[^>]*>/g, '');
 
                 setIsSpeaking(true);
