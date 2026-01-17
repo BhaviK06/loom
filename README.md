@@ -96,13 +96,11 @@ loom/
 └── README.md
 ```
 
-##  Color Palette
+##  Interface
 
-- Primary Purple: `#7C3AED`
-- Secondary Purple: `#A855F7`
-- Light Purple: `#E9D5FF`
-- Background: `#F3E8FF`
-- Border: `#DDD6FE`
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/ef98fa2f-01d4-4118-b318-feb992ba6bb3" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/81591180-c945-43ff-9646-0ce235d0b948" />
+
 
 ##  License
 
