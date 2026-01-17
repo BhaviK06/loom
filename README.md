@@ -98,8 +98,8 @@ loom/
 
 ##  Interface
 
-<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/ef98fa2f-01d4-4118-b318-feb992ba6bb3" />
-<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/81591180-c945-43ff-9646-0ce235d0b948" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ef98fa2f-01d4-4118-b318-feb992ba6bb3" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/81591180-c945-43ff-9646-0ce235d0b948" />
 <img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/401f7a4c-1ac0-420b-886b-e0e549675ada" />
 <img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/5e598ad3-1a27-42af-a6a1-5cb39caaba85" />
 <img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/30e160c6-d461-48fc-9632-732a3b8170d3" />
